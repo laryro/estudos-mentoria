@@ -1,6 +1,6 @@
 # Git workflows
 
-Os workflows são, traduzindo literalmente do inglês, fluxos de trabalho. No Git, existem 4 principais fluxos de trabalho: o **[Centralized Workflow](#centralized)**, o **[Feature Branch Workflow](#feature-branch)**, o **Gitflow Workflow** e o **Forking Workflow**.
+Os workflows são, traduzindo literalmente do inglês, fluxos de trabalho. No Git, existem 4 principais fluxos de trabalho: o **[Centralized Workflow](#centralized)**, o **[Feature Branch Workflow](#feature-branch)**, o **[Gitflow Workflow](#gitflow)** e o **[Forking Workflow](#forking)**.
 
 Cada workflow funciona de uma maneira e o objetivo deste artigo é explicar resumidamente seu funcionamento, além de citar algumas vantagens e desvantagens de cada fluxo.
 
