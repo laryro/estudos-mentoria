@@ -18,8 +18,7 @@ Nesse workflow, os membros fazem uma cópia local do repositório (_clone_) e j�
 
 - Equipes pequenas se habituarão muito fácil à ferramenta
 
-
- **Desvantagens**
+**Desvantagens**
 
  - Fica difícil de ter controle sobre as releases do código, uma vez que todos vão trabalhando e comitando suas versões umas atrás das outras
 
