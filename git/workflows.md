@@ -9,10 +9,12 @@ Cada workflow funciona de uma maneira e o objetivo deste artigo é explicar resu
 O _Centralized Workflow_ traz o funcionamento básico do Git: _pull_, _commit_, _merge_ e _push_. Nesse fluxo, todos os integrantes do time trabalham em cima da mesma versão do código, ou seja, no mesmo repositório e na mesma branch, daí o nome "Centralized", pois todo o desenvolvimento fica centralizado em uma única branch em um único repositório.
 
 Nesse workflow, os membros fazem uma cópia local do repositório (_clone_) e já podem começar a trabalhar no código. Depois que as alterações foram feitas, segue-se o seguinte fluxo:
+
 1. commit das alterações;
 2. pull para sincronizar com a versão do servidor;
 3. merge (se necessário);
 4. finalmente o push para enviar a versão atualizada e mesclada ("_mergeada_").
+
 
 ### Vantagens e desvantagens
 
